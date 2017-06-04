@@ -1,0 +1,10 @@
+{
+  "name": "Bridge Name",
+  "version": "1",
+  "slug": "hello_world",
+  "description": "My first real add-on!",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
